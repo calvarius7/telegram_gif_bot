@@ -1,0 +1,24 @@
+742173952:AAHPWua9jFVLKk2eqaBb1eu7LNjAo4RrIng
+kif
+btml_bot
+
+
+https://api.telegram.org/bot742173952:AAHPWua9jFVLKk2eqaBb1eu7LNjAo4RrIng/getUpdates
+
+
+https://api.telegram.org/bot742173952:AAHPWua9jFVLKk2eqaBb1eu7LNjAo4RrIng/sendMessage?chat_id=250755296&text="texty text"
+
+
+api.telegram.org/bot742173952:AAHPWua9jFVLKk2eqaBb1eu7LNjAo4RrIng/setWebHook?url=https://6da66e70.ngrok.io/
+
+api.telegram.org/bot742173952:AAHPWua9jFVLKk2eqaBb1eu7LNjAo4RrIng/getWebhookInfo
+
+
+ngrock.exe http 8080
+ngrock.exe authtoken Wqy4bMWqAQMEhb6hNyBu_KwKZqCNRWtZ8d9S2N4Qi
+
+docker build -t calvarius7:btml .
+docker run -it -p 8080:8080 calvarius7:btml
+
+
+
